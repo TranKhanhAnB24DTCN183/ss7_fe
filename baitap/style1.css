@@ -1,0 +1,44 @@
+*{
+    font-size: 16px;
+    color: #231751;
+    box-sizing: border-box;
+}
+.body{
+    background-color: #eaeaea;
+    color: #231751;
+    width:500px ;
+    height:350px ;
+    font-size: 16px;
+}
+.all{
+    margin: 10px;
+    display: flex;
+    text-align: left;
+}
+.img{
+    margin-right: 10px;
+}
+.text{
+    font-weight: bold;
+    padding-top: 8px;
+    font-size: 14px;
+}
+h2{
+    font-weight: bold;
+    font-size:30px ;
+}
+.submit .submit1{
+    background-color: red;
+    color: white;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+}
+.submit .submit2{
+    background-color: #eaeaea;
+    color: black;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+}
+
